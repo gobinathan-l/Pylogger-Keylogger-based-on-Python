@@ -1,0 +1,2 @@
+Create a Keylogger with Python - Tutorial (https://www.youtube.com/watch?v=TbMKwl11itQ)
+Send mail with attachment from your Gmail account using Python (https://www.geeksforgeeks.org/send-mail-attachment-gmail-account-using-python/)
