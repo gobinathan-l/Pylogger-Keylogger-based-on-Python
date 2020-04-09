@@ -14,8 +14,8 @@
 My name is Gobinathan. I am a CyberSecurity Enthusiast. Been learning Pentesting for past two years. An Active CTF Player.
 
 ## [+] Find Me on
-[~] [Github](https://github.com/gobinathan-l/)<br>
-[~] [Linkedin](https://in.linkedin.com/in/gobinathan-l)
+### [~] [Github](https://github.com/gobinathan-l/)<br>
+### [~] [Linkedin](https://in.linkedin.com/in/gobinathan-l)
 
 ## [+] Disclaimer
 <b>I provide no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
