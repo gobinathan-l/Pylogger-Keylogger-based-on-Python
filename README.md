@@ -1,5 +1,5 @@
 <p align="center">
-An Advanced Keylogger powered by Python 3.
+<b>An Advanced Keylogger powered by Python 3.</b>
 </p>
 
 ## Features
