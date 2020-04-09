@@ -10,6 +10,8 @@
 - Grabs PC Information such as Public and Private IP, Hardware details, Hostname, etc
 - Encrypts the Logs and sends it to you via Email.
 
+This Project is still under construction.
+
 ## Disclaimer
 <b>I provide no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
 Pylogger is built for both Educational and Internal use ONLY.</b>
