@@ -10,9 +10,9 @@
 - Grabs PC Information such as Public and Private IP, Hardware details, Hostname, etc
 - Encrypts the Logs and sends it to you via Email.
 
-This Project is still under construction.
+## This Project is still under construction.
 
-##About Me
+## About Me
 My name is Gobinathan. I am a CyberSecurity Enthusiast.<br>
 [Github](https://github.com/gobinathan-l/)<br>
 [Linkedin](https://in.linkedin.com/in/gobinathan-l)
